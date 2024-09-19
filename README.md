@@ -1,7 +1,7 @@
 # machine-learning-homework
 # Programming Environment
-Operating System: Windows 10  
-Python Version: 3.8  
+Operating System: Windows 11  
+Python Version: 3.10  
 Libraries and Versions:  
 numpy: 1.19.2  
 pandas: 1.1.3  
